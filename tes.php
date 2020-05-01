@@ -4,7 +4,7 @@
 	<title>Belajar Git</title>
 </head>
 <body>
-<h1>Git</h1>
+<h1>Git belajar</h1>
 </body>
 </html>
 
